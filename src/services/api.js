@@ -1,6 +1,6 @@
-import axios from 'axios';
-import data from '../data/data.json';
+// import axios from 'axios';
 
 
-export const fetchBuildings = () => axios.get(data);
-// fetchBuildings().then((res) => console.log(res.data));
+// console.log(data);
+// export const fetchBuildings = () => axios.get(data);
+// // fetchBuildings().then((res) => console.log(res.data));
